@@ -1,0 +1,27 @@
+# Compiled files
+*.o
+*.so
+*.a
+*.exe
+*.out
+minmax_*
+__pycache__/
+
+# Data files
+*.dat
+*.bin
+*.tmp
+
+# Screenshots (large files)
+screenshots/*.png
+screenshots/*.jpg
+
+# Environment files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
